@@ -9,8 +9,10 @@ I'm Giacomo, a Computer Science Engineer currently working as Software Developer
 
 ### 👨‍💻 Working Experience
 
-- Software Developer Engineer
-- Thesis
+- **NTT DATA S.p.a** | Software Developer Engineer in Siemens, June 2020 - Nowadays
+  - I was introduced in the *Digital Enterprise* team of *Siemens*. During this period me and my colleague develop the [*Trusted Traceability*](https://assets.new.siemens.com/siemens/assets/api/uuid:de496ba4-0081-48f5-965b-4963879b2d43/vrfb-b10033-00-7600sbblockchainfb-144.pdf).
+  - Full stack developer 
+- **NTT DATA S.p.a** | Thesis
 
 ### 🚵‍♂️ Offline
 
